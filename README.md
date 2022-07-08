@@ -1,3 +1,3 @@
 # StudyAutotestCourseRep
 My homework (домашнее задание) for Stepik Course. 
-Git для моего проекта
+Git для моих проектов c Python и Selenium.
